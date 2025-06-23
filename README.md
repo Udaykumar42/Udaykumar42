@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Udaykumar42
-- 👀 I’m interested in Cyber Security
+- 👀 I’m interested in Cyber Security | Red teaming
 - 🌱 I’m currently learning Ethical Hacking fundamentals
 - 📫 How to reach me : github
 - 😄 Pronouns: He/Him
